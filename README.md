@@ -5,6 +5,7 @@
 >
 >Çalışma videosu: 
 
+https://user-images.githubusercontent.com/37184598/142239118-1a83804b-c8da-4c32-a875-a92ff49e18bb.mp4
 
 
 ## Test Senaryosu
